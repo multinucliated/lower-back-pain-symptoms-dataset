@@ -8,7 +8,7 @@ Its just a head start to my data science career, So I started with this small da
 
 
 
-the actual labels that are been labeled in this image are : 
+Some of the actual labels that are been labeled in this image are : 
 
 
 ![alt text](https://github.com/multinucliated/lower-back-pain-symptoms-dataset/blob/master/2-Figure1-1.png)
